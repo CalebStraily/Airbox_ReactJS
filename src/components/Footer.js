@@ -40,7 +40,7 @@ function Footer()
                             <span className="hosting-provider-subtext">Hosting Provider</span>
                         </p>
                     </li>
-                    <li><span class="copyright">© 2013 | PRIVACY POLICY</span></li>
+                    <li><span className="copyright">© 2013 | PRIVACY POLICY</span></li>
                 </ul>
             </div>
             <div className="col-6 links-column">
